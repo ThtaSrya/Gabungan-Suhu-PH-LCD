@@ -18,7 +18,7 @@
 1. Langkah pertama anda harus menginstal software Arduino IDE pada komputer anda. 
 2. Setelah menginstal software Arduino IDE dibutuhkan juga library sensor suhu DS18B20 dan sensor ph meter terlebih dahulu,berikut linknya  (https://github.com/matmunk/DS18B20) dan (https://github.com/DFRobot/DFRobot_EC).
 3. Lalu untuk menginstal library sensor suhu DS18B20 dan sensor ph meter, maka masukkan link library pada menu preference secara bergantian  pada  Arduino IDE (cara penginstalan library dan penambahan board ada pada file di atas) lalu tekan tombol "OK".
-4. Jika librarynya sudah terinstal dan ditambahkan, maka anda bisa mulai memasukkan programnya (contoh program ada pada file "sensor suhu dan ph" diatas). 
+4. Jika librarynya sudah terinstal dan ditambahkan, maka anda bisa mulai memasukkan programnya (contoh program ada pada file "suhu_ph" diatas). 
 5. Setelah library ditambahkan maka program dapat dimasukkan dan jangan lupa di upload ke Arduino, kemudian buka serial monitor untuk mengetahui apakah program dapat berjalan dengan benar. 
 6. Lalu siapkan beberapa jenis benda seperti air yang ingin diketahui nilai suhu-nya dan nilai ph-nya.
 7. Masukkan alat sensor suhu DS18B20 dan alat sensor ph meter secara bersamaan  ke dalam beberapa jenis air tersebut, diamkan beberapa saat hingga nilai suhu dan ph-nya muncul pada LCD.
